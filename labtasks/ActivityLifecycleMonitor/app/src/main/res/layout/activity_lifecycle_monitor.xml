@@ -19,6 +19,7 @@
         android:src="@drawable/ic_launcher"/>
 
     <EditText
+        android:saveEnabled="true"
         android:id="@+id/username_edit_text"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
